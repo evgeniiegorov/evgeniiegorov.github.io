@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Evgeny Egorov"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Doing vsyakoe around machine learning. Intern reasercher at IITP RAS"
+  location         : "Russia, Moscow"
+  email            : egorov.evgenyy@yandex.ru
   uri              :
   bitbucket        :
   codepen          :
