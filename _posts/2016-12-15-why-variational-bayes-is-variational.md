@@ -38,7 +38,8 @@ $$
 = \mathbb{E}_q \ln p(X,Z|\theta) + \mathbb{E}_q \ln p(\theta) - \mathbb{E}_q\ln q(Z, \theta)
 $$
 
-Consider $\mathcal{F}(q) = \mathbb{E}_q \ln p(X,Z|\theta) + \mathbb{E}_q \ln p(\theta) - \mathbb{E}_q\ln q(Z, \theta)$.
+Consider 
+$$\mathcal{F}(q) = \mathbb{E}_q \ln p(X,Z|\theta) + \mathbb{E}_q \ln p(\theta) - \mathbb{E}_q\ln q(Z, \theta)$$
 
 Than we obtain optimization problem with constraints:
 
