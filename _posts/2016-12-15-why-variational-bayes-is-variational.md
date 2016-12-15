@@ -11,6 +11,10 @@ MCMC for West Cost, Variational Bayes for East Cost. So, I prefer to use the var
 
 Consider
 
+\\[ 
+\frac{1}{n^{2}} 
+\\]
+
 + $X$ as observed data
 + $Z$ latent variables
 + $\theta$ other parameters 
