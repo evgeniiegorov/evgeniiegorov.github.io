@@ -33,8 +33,8 @@ Most hard part is to deal with $\int p(X, Z, \theta) dZd\theta = p(X)$. Let's op
 # Exact solution
 
 $$
-\ln p(X) = \ln \int p(X, Z, \theta) dZd\theta = \ln \int q(X, Z)p(X, Z, \theta)\dfrac{1}{q(X, Z)} dZd\theta = \\
-= \ln\left(\mathbb{E}_{q(\theta,Z)}\dfrac{ p(X, Z, \theta)}{q(X, Z)}\right)\geq \{\text{Concave of log}\} \geq \mathbb{E}_{q(\theta,Z)}\ln\dfrac{ p(X, Z, \theta)}{q(X, Z)} = \\
+\ln p(X) = \ln \int p(X, Z, \theta) dZd\theta = \ln \int q(	heta, Z)p(X, Z, \theta)\dfrac{1}{q(	heta, Z)} dZd\theta = \\
+= \ln\left(\mathbb{E}_{q(\theta,Z)}\dfrac{ p(X, Z, \theta)}{q(	heta, Z)}\right)\geq \{\text{Concave of log}\} \geq \mathbb{E}_{q(\theta,Z)}\ln\dfrac{ p(X, Z, \theta)}{q(	heta, Z)} = \\
 = \mathbb{E}_q \ln p(X,Z|\theta) + \mathbb{E}_q \ln p(\theta) - \mathbb{E}_q\ln q(Z, \theta)
 $$
 
