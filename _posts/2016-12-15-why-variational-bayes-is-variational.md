@@ -134,6 +134,6 @@ $$
 By symmetry:
 
 $$
-q_{z}(Z) = \dfrac{\exp(\mathbb{E}_{q_{\theta}}\ln p(X,Z|\theta))}{\int\exp(\mathbb{E}_{q_{\theta}}\ln p(X,Z|\theta)dZ}$$
+q_{z}(Z) = \dfrac{\exp(\mathbb{E}_{q_{\theta}}\ln p(X,Z|\theta)))}{\int\exp(\mathbb{E}_{q_{\theta}}\ln p(X,Z|\theta)dZ}$$
 
 And that's it!
